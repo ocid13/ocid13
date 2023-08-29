@@ -28,6 +28,6 @@ Watch and Learn
 
 ### Let's connect!
 <p>
-    <a href="www.linkedin.com/in/haidakhoirurrosyid" target="blank"><img src="https://img.shields.io/badge/Haida_Khoirurrosyid-grey?logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/haidakhoirurrosyid/" target="blank"><img src="https://img.shields.io/badge/Haida_Khoirurrosyid-grey?logo=linkedin" /></a>
     <a href="https://www.instagram.com/hhayycidd__/" target="blank"><img src="https://img.shields.io/badge/%40hhayycidd____-grey?logo=instagram&color=grey" /></a>
 </p>
