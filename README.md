@@ -22,8 +22,8 @@ Watch and Learn
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="http://github-readme-stats.vercel.app/api?username=ocid13" /> </p> </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocid13" height=180 />
+    <img src=" /"https://github-readme-stats.vercel.app/api?username=ocid13&theme=tokyonight&show_icons=true"> </p> </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocid13&theme=tokyonight&show_icons=true" height=180 />
 </p>
 
 ### Let's connect!
