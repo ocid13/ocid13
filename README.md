@@ -22,7 +22,7 @@ Watch and Learn
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ocid13&theme=tokyonight&show_icons=true"> </p> </br>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ocid13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> </p> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocid13&theme=tokyonight&show_icons=true" height=180 />
 </p>
 
