@@ -19,8 +19,9 @@ Watch and Learn
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:haidakhoirurrosid@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: Jawir</br>
 </details>
+<br>
 <p>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ocid13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> </p> </br>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ocid13&layout=compact&langs_count=8&theme=tokyonight" height=180 />
